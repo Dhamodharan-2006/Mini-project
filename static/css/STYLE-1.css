@@ -129,5 +129,12 @@ p{
         font-size:16px;
         padding:10px;
     }
-    
+img{
+    width:100%;
+    height:auto;
+}
+.container{
+    flex-direction:column;
+}}
+
 
