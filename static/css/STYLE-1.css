@@ -126,10 +126,15 @@ p{
 }
 @media(max-width:768px){
     body{
-        background:lightblue;
         font-size:16px;
         padding:10px;
     }
+    .ulist{
+        flex-direction:column;
+        gap:10px;
+    }
+    
+
 
 
 
