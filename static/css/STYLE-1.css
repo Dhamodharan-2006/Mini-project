@@ -4,8 +4,7 @@ body{
     background: url('../images/pexels-anush-1229356.jpg');
     background-repeat: no-repeat;
     background-size:cover;
-    padding: 20px;
-    font-size:14px;
+    padding: 0px;
 }
 .nlist{
     display:block;
@@ -127,16 +126,11 @@ p{
 }
 @media(max-width:768px){
     body{
+        background:lightblue;
         font-size:16px;
         padding:10px;
     }
-img{
-    width:100%;
-    height:auto;
-}
-.container{
-    flex-direction:column;
-}}
+
 
 
 
